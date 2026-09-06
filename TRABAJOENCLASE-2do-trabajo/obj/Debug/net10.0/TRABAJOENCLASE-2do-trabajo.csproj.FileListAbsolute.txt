@@ -1,0 +1,15 @@
+D:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\obj\Debug\net10.0\TRABAJOENCLASE-2do-trabajo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\obj\Debug\net10.0\TRABAJOENCLASE-2do-trabajo.AssemblyInfoInputs.cache
+D:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\obj\Debug\net10.0\TRABAJOENCLASE-2do-trabajo.AssemblyInfo.cs
+D:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\obj\Debug\net10.0\TRABAJOENCLASE-2do-trabajo.csproj.CoreCompileInputs.cache
+D:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\obj\Debug\net10.0\TRABAJOENCLASE-2do-trabajo.sourcelink.json
+d:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\bin\Debug\net10.0\TRABAJOENCLASE-2do-trabajo.exe
+d:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\bin\Debug\net10.0\TRABAJOENCLASE-2do-trabajo.deps.json
+d:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\bin\Debug\net10.0\TRABAJOENCLASE-2do-trabajo.runtimeconfig.json
+d:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\bin\Debug\net10.0\TRABAJOENCLASE-2do-trabajo.dll
+d:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\bin\Debug\net10.0\TRABAJOENCLASE-2do-trabajo.pdb
+d:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\obj\Debug\net10.0\TRABAJOENCLASE-2do-trabajo.dll
+d:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\obj\Debug\net10.0\refint\TRABAJOENCLASE-2do-trabajo.dll
+d:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\obj\Debug\net10.0\TRABAJOENCLASE-2do-trabajo.pdb
+d:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\obj\Debug\net10.0\TRABAJOENCLASE-2do-trabajo.genruntimeconfig.cache
+d:\ESTRUCTURA_DE_DATOS_202\TRABAJOENCLASE-2do-trabajo\obj\Debug\net10.0\ref\TRABAJOENCLASE-2do-trabajo.dll
