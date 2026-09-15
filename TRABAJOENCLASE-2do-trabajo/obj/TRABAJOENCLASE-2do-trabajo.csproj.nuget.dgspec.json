@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "d:\\ESTRUCTURA_DE_DATOS_202\\TRABAJOENCLASE-2do-trabajo\\TRABAJOENCLASE-2do-trabajo.csproj": {}
+    "C:\\Users\\valer\\.copilot\\repos\\copilot-worktrees\\Estructura-de-datos\\valeria-san01-verbose-waddle\\TRABAJOENCLASE-2do-trabajo\\TRABAJOENCLASE-2do-trabajo.csproj": {}
   },
   "projects": {
-    "d:\\ESTRUCTURA_DE_DATOS_202\\TRABAJOENCLASE-2do-trabajo\\TRABAJOENCLASE-2do-trabajo.csproj": {
+    "C:\\Users\\valer\\.copilot\\repos\\copilot-worktrees\\Estructura-de-datos\\valeria-san01-verbose-waddle\\TRABAJOENCLASE-2do-trabajo\\TRABAJOENCLASE-2do-trabajo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ESTRUCTURA_DE_DATOS_202\\TRABAJOENCLASE-2do-trabajo\\TRABAJOENCLASE-2do-trabajo.csproj",
+        "projectUniqueName": "C:\\Users\\valer\\.copilot\\repos\\copilot-worktrees\\Estructura-de-datos\\valeria-san01-verbose-waddle\\TRABAJOENCLASE-2do-trabajo\\TRABAJOENCLASE-2do-trabajo.csproj",
         "projectName": "TRABAJOENCLASE-2do-trabajo",
-        "projectPath": "d:\\ESTRUCTURA_DE_DATOS_202\\TRABAJOENCLASE-2do-trabajo\\TRABAJOENCLASE-2do-trabajo.csproj",
-        "packagesPath": "C:\\Users\\valsa\\.nuget\\packages\\",
-        "outputPath": "d:\\ESTRUCTURA_DE_DATOS_202\\TRABAJOENCLASE-2do-trabajo\\obj\\",
+        "projectPath": "C:\\Users\\valer\\.copilot\\repos\\copilot-worktrees\\Estructura-de-datos\\valeria-san01-verbose-waddle\\TRABAJOENCLASE-2do-trabajo\\TRABAJOENCLASE-2do-trabajo.csproj",
+        "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\valer\\.copilot\\repos\\copilot-worktrees\\Estructura-de-datos\\valeria-san01-verbose-waddle\\TRABAJOENCLASE-2do-trabajo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\valsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\valer\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -45,10 +39,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -66,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
