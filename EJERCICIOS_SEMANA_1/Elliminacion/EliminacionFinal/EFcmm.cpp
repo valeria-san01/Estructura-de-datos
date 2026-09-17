@@ -1,18 +1,29 @@
 #include <iostream>
-#include <vector>
+using namespace std;
 
-int main() {
-    std::vector<int> inputArr = {11, 21, 31, 41, 51, 61};
-    
-    std::cout << "Antes de eliminar, el array es: ";
-    for (int x : inputArr) std::cout << x << " ";
-    std::cout << "\n";
+int main() 
+{
+    int inputArr[] = {11, 21, 31, 41, 51, 61};
+    int n = sizeof(inputArr) / sizeof(inputArr[0]);
 
-    inputArr.pop_back(); // Elimina el último elemento del vector
+    cout << "Antes de la eliminación, el array es: "<<endl;
+    for (int j = 0; j < n; j++)
+    {
+        cout << inputArr[j] << " ";
+    }
 
-    std::cout << "Después de eliminar, el array es: ";
-    for (int x : inputArr) std::cout << x << " ";
-    std::cout << "\n";
+    int nuevoArr[5];
+    for (int j = 0; j < n - 1; j++)
+    {
+        nuevoArr[j] = inputArr[j];
+    }
+
+    cout << "Después de la eliminación, el array es:" << endl;
+    for (int j = 0; j < n - 1; j++)
+    {
+        cout << nuevoArr[j] << " ";
+    }
+    cout << endl;
 
     return 0;
 }

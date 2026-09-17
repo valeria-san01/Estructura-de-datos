@@ -37,13 +37,13 @@ int main() {
                     // 4. Eliminación elegida usando erase() y el iterador correspondiente
                     tareas.erase(tareas.begin() + indiceReal);
                     
-                    cout << "\n¡Exito! Se ha eliminado: '" << tareaEliminada << "'" << endl;
+                    cout << "¡Exito! Se ha eliminado: '" << tareaEliminada << "'" << endl;
                 } else {
-                    cout << "\nError: El numero seleccionado no existe en la lista." << endl;
+                    cout << "Error: El numero seleccionado no existe en la lista." << endl;
                 }
             }
         } else {
-            cout << "\nError: Por favor, introduce un numero valido." << endl;
+            cout << "Error: Por favor, introduce un numero valido." << endl;
             cin.clear(); // Limpiamos el estado de error de cin
             cin.ignore(10000, '\n'); // Descartamos la entrada incorrecta
         }
